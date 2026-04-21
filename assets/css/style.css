@@ -25,3 +25,15 @@ button {
 a {
     text-decoration: none;
 }
+
+.inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 2rem;
+    font-weight: 500;
+    background-color: #ccc;
+    padding: 20px;
+    margin-bottom: 30px;
+}
